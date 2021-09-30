@@ -64,6 +64,7 @@ public class Payment implements Serializable{
         return days * dailyIncome;
     }
 
+
     @Override
     public boolean equals(Object o) {
         if (o == this)
