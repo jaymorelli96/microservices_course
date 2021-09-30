@@ -2,8 +2,8 @@ package com.jaymorelli.hrworker.resources;
 
 import java.util.List;
 
-import com.jaymorelli.hrworker.Repositories.WorkerRepository;
 import com.jaymorelli.hrworker.entities.Worker;
+import com.jaymorelli.hrworker.repositories.WorkerRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

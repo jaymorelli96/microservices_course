@@ -1,4 +1,4 @@
-package com.jaymorelli.hrworker.Repositories;
+package com.jaymorelli.hrworker.repositories;
 
 import com.jaymorelli.hrworker.entities.Worker;
 
